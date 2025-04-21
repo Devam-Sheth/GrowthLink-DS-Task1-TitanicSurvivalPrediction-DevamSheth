@@ -1,5 +1,3 @@
-# GrowthLink-DS-Task1-TitanicSurvivalPrediction-DevamSheth
-
 # Titanic Survival Prediction 🚢
 
 This project is a solution to the **Titanic Survival Prediction Task** for the GrowthLink Data Science Internship.
