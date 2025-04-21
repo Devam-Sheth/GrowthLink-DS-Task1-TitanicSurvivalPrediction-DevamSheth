@@ -34,11 +34,16 @@ Also included in the `data/` directory.
 
 2. Install Dependencies
 
+   ```bash
    pip install -r requirements.txt
 
 3. Run the Script
-
+   
+   ```bash
    python titanic_prediction.py
 
 Devam Sheth
+
 Email: devamsheth1203@gmail.com
+
+Institue Email: f20221204@pilani.bits-pilani.ac.in
