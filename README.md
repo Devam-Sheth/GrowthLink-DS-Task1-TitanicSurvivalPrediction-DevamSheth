@@ -12,7 +12,14 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 
 - Data Cleaning: Removed unnecessary columns and filled missing values.
 - Feature Engineering: Encoded categorical variables (`Sex`, `Embarked`) and normalized numeric features (`Age`, `Fare`).
-- Model: Random Forest Classifier with performance evaluated using accuracy and classification report.
+
+## 📊 Evaluation Metrics
+
+- **Accuracy Score**
+- **Classification Report**
+  - Precision
+  - Recall
+  - F1-score
 
 ## 📁 Dataset
 
@@ -26,3 +33,14 @@ Also included in the `data/` directory.
    ```bash
    git clone https://github.com/yourusername/Titanic-Survival-Prediction-GrowthLink.git
    cd Titanic-Survival-Prediction-GrowthLink
+
+2. Install Dependencies
+
+   pip install -r requirements.txt
+
+3. Run the Script
+
+   python titanic_prediction.py
+
+Devam Sheth
+Email: devamsheth1203@gmail.com
